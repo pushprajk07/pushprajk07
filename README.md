@@ -53,9 +53,6 @@
 ## GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pushprajk07&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushprajk07&layout=compact&theme=transparent&hide_border=true" alt="Top languages">
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com/?user=pushprajk07&theme=transparent&hide_border=true" alt="GitHub streak">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pushprajk07&show_icons=true&hide_rank=true&theme=transparent&hide_border=true" alt="GitHub stats">
+  <img height="165" src="https://streak-stats.demolab.com/?user=pushprajk07&theme=transparent&hide_border=true" alt="GitHub streak">
 </p>
