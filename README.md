@@ -46,11 +46,11 @@ I build full-stack web apps and the AI features inside them, and I care most abo
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Medical Chatbot](https://github.com/pushprajk07/Build-a-Complete-Medical-Chatbot)** | RAG chatbot that answers medical questions from a document knowledge base; Dockerized with CI | Python, LangChain, OpenAI, Pinecone, Flask, Docker |
-| **[AI Frontend Scheduler](https://github.com/pushprajk07/AI-Frontend-Scheduler)** | AI-assisted scheduling and task management; Dockerized with CI | TypeScript, React, Hono, Prisma, Vercel AI SDK |
-| **[Prices Predictor System](https://github.com/pushprajk07/prices-predictor-system)** | End-to-end ML pipeline that predicts house prices, with experiment tracking and model deployment | Python, scikit-learn, ZenML, MLflow |
 | **[Team Task Manager](https://github.com/pushprajk07/Team-Task-Manager)** · [Live](https://team-task-manager-production-f9f1.up.railway.app/) | Team board with login, admin and member roles, projects, task assignment and a progress dashboard | Node.js, JavaScript, REST API, Docker |
-| **[Apna Video Call](https://github.com/pushprajk07/Full-Stack-Video-Conferencing)** · [Live](https://full-stack-video-conferencing-tkjz.vercel.app) | Multi-user video calls with room creation, joining and peer-to-peer streaming | React, Node.js, Socket.IO, WebRTC, MongoDB |
+| **[AI Appointment Scheduler](https://github.com/pushprajk07/AI-Frontend-Scheduler)** | Booking, calendar and admin dashboard, with an LLM that writes confirmations, reminders and agendas and suggests better slots | TypeScript, React, Hono, Prisma, PostgreSQL, Docker |
+| **[Medical Chatbot](https://github.com/pushprajk07/Build-a-Complete-Medical-Chatbot)** | RAG chatbot over a medical PDF knowledge base, deployed with Docker and GitHub Actions to AWS | Python, LangChain, OpenAI, Pinecone, Flask, Docker |
+| **[Apna Video Call](https://github.com/pushprajk07/Full-Stack-Video-Conferencing)** · [Live](https://full-stack-video-conferencing-tkjz.vercel.app) | Multi-user video calls with screen sharing and chat over peer-to-peer WebRTC | React, Node.js, Socket.IO, WebRTC, MongoDB |
+| **[Prices Predictor System](https://github.com/pushprajk07/prices-predictor-system)** | End-to-end ML pipeline that predicts house prices, with experiment tracking and model deployment | Python, scikit-learn, ZenML, MLflow |
 | **[Stock Monitoring Tool](https://github.com/pushprajk07/Stock_Monitoring_Tool)** · [Live](https://stock-monitoring-tool-sevenvercel-gfpkzd9z8.vercel.app/) | Search demo stocks, view prices and charts, and keep a personal watchlist | React, Node.js, Express, MongoDB, Passport.js |
 
 ## Open-source contributions
